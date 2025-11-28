@@ -110,8 +110,4 @@ Execute the Streamlit command from your project root directory:
 streamlit run app.py  # or the name of your Streamlit file
 
 
-The application will open in your default web browser (usually at http://localhost:8501).
 
-🤝 Contribution
-
-Feel free to open issues or submit pull requests to improve the system, add more filtering techniques, or enhance the UI!
