@@ -54,11 +54,6 @@ Prerequisites
 
 You will need Python 3.x installed on your machine.
 
-Clone the Repository
-
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
-
 
 Install Dependencies
 
